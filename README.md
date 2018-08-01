@@ -1,2 +1,2 @@
 # RetinalCoherenceTomography
-Detecting the damages to the retina using CNN . It consists of using about 85000 images of the retina to train the network . The architecture consists of a pretrained network(Resnet34) and accuracy obtained is 93.84%
+Retinal Coherence Tomography involves using the x-ray images of the retina to detect the damages caused to it.The damages caused are divided into three categories , namely-Drusen,Coherence Neo Vascular(CNV) This project consists of around 85000 images to train the nueral network. The architecture consists of a pretrained network(Resnet34) and accuracy obtained is 93.84%
